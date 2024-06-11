@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Guess-The-Word/static/css/main.417802ac.css",
-    "main.js": "/Guess-The-Word/static/js/main.d1573e24.js",
+    "main.css": "/Guess-The-Word/static/css/main.24820946.css",
+    "main.js": "/Guess-The-Word/static/js/main.8d29b02c.js",
     "static/js/453.f7be5b23.chunk.js": "/Guess-The-Word/static/js/453.f7be5b23.chunk.js",
     "static/media/man_dead.png": "/Guess-The-Word/static/media/man_dead.825ed8955c7726e25e95.png",
     "static/media/man_hang.png": "/Guess-The-Word/static/media/man_hang.45a368b4f3994199647f.png",
     "index.html": "/Guess-The-Word/index.html",
-    "main.417802ac.css.map": "/Guess-The-Word/static/css/main.417802ac.css.map",
-    "main.d1573e24.js.map": "/Guess-The-Word/static/js/main.d1573e24.js.map",
+    "main.24820946.css.map": "/Guess-The-Word/static/css/main.24820946.css.map",
+    "main.8d29b02c.js.map": "/Guess-The-Word/static/js/main.8d29b02c.js.map",
     "453.f7be5b23.chunk.js.map": "/Guess-The-Word/static/js/453.f7be5b23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.417802ac.css",
-    "static/js/main.d1573e24.js"
+    "static/css/main.24820946.css",
+    "static/js/main.8d29b02c.js"
   ]
 }
