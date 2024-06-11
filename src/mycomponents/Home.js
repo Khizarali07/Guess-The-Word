@@ -41,7 +41,7 @@ export default function Home() {
               id="mfour"
               value={word}
               onInput={(evt) => {
-                setword(evt.target.value);
+                setword(evt.target.value.toLowerCase());
               }}
               onChange={functioning}
             />
@@ -95,7 +95,8 @@ let arr = [];
 let check = 0;
 function functioning() {
   let input = document.getElementById("mfour");
-  let x = input.value;
+  let x = input.value.toLowerCase();
+  console.log(x);
   let y = document.getElementsByClassName("para");
   let z = document.getElementById("mthree");
   let guess = document.getElementById("guess");

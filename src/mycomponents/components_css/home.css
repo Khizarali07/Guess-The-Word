@@ -87,7 +87,7 @@
         height: 60vh;
         position: absolute;
         right: 0px;
-        top: 30vh;
+        top: 35vh;
     }
 
     #mthree {
@@ -149,7 +149,7 @@
     }
 
     #word {
-        width: 45vw;
+        width: 50vw;
         height: 8vh;
         margin: 3.5vh;
         border: 2px solid blue;
@@ -323,7 +323,7 @@
     }
 
     #word {
-        width: 45vw;
+        width: 50vw;
         height: 8vh;
         margin: 3.5vh;
         border: 2px solid blue;
@@ -338,7 +338,7 @@
         font-size: 2vw;
         margin-right: 3vw;
         color: blue;
-        border: 5px solid red;
+        border: 2px solid red;
         color: white;
         text-align: center;
     }
